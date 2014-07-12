@@ -21,10 +21,7 @@
 	<requirement>
 	 	<name>pdo_mysql</name><group>core</group><required>1</required>
 	</requirement>
-	<requirement>
-	 	<name>disk_free_space</name><group>core</group><required>5 GB</required><info>1</info><error>true</error>
-	</requirement>
-	<requirement>
+		<requirement>
 	 	<name>gd</name><group>extension</group><required>2.0.0</required>
 	</requirement>
 	<requirement>
